@@ -1,0 +1,20 @@
+
+
+h4{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.select{
+  width: 450px;
+  margin: 0 auto;
+  padding: 3em;
+}
+
+.Form.Select {
+  margin-bottom: 0,5em;
+
+}
+
+.newproject_container p {
+  color: black;
+}

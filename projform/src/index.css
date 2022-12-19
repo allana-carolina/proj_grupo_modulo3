@@ -1,0 +1,25 @@
+
+form {
+  height: 400px;
+	width:  400px;
+	background: rgb(170, 72, 72);
+	margin:250px auto;
+	padding: 20px 20px 20px 20px; 
+}
+
+input,
+textarea,
+select {
+  display: block;
+  margin-top: 10px;
+}
+
+body {
+  border-image-repeat: repeat;
+  background-image: url(https://img.freepik.com/vetores-premium/linha-abstrata-textura-de-fundo_147754-9.jpg?w=2000);
+}
+
+h4{
+  color: rgb(0, 0, 7);
+}
+
