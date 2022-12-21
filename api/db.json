@@ -1,0 +1,66 @@
+{
+    "cortes": [
+      {
+        "nome": "Americano",
+        "preco": "20 reais",
+        "imagem": "https://i.pinimg.com/550x/a2/e4/09/a2e409d63ff5376ee2136f3907a93376.jpg"
+      },
+      {
+        "nome": "Jaca",
+        "preco": "25 reais",
+        "imagem": "https://i1.sndcdn.com/artworks-6zpTORebQvzUlfXC-WUDWVg-t500x500.jpg"
+      },
+      {
+        "nome": "Moicano",
+        "preco": "30 reais",
+        "imagem": "https://static.wixstatic.com/media/49f5f5_72cf21dfbd02440994c87619153d7c6f~mv2.jpg/v1/fill/w_260,h_252,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/49f5f5_72cf21dfbd02440994c87619153d7c6f~mv2.jpg"
+      },
+      {
+        "nome": "Militar",
+        "preco": "25 reais",
+        "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjL9dPV0ZzQmj-oiUcPLD-wK4oO7yHgWeIFg&usqp=CAU"
+      },
+      {
+        "nome": "Talibã",
+        "preco": "30 reais",
+        "imagem": "https://i.pinimg.com/736x/9a/d8/cb/9ad8cbe3c86e144bc70c10ce4c2c1e18.jpg"
+      },
+      {
+        "nome": "Asa delta",
+        "preco": "28 reais",
+        "imagem": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+      }
+    ],
+    "pigmentacoes": [
+        {
+            "cor": "Preto",
+            "tempo": "30 minutos",
+            "img": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+        },
+        {
+          "cor": "Reflexo",
+          "tempo": "1 hora",
+          "img": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+        },
+        {
+          "cor": "Neve",
+          "tempo": "1h 30min",
+          "img": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+        },
+        {
+          "cor": "Vermelho",
+          "tempo": "40 minutos",
+          "img": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+        },
+        {
+          "cor": "Roxo",
+          "tempo": "40 minutos",
+          "img": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+        },
+        {
+          "cor": "Azul",
+          "tempo": "40 minutos",
+          "img": "https://i0.wp.com/tudocommoda.com/wp-content/uploads/2018/07/corte-cabelo-masculino-fade.jpg?w=680&ssl=1"
+        }
+    ]
+}
